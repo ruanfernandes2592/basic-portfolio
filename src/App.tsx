@@ -38,7 +38,7 @@ function App() {
       return;
     }
 
-    const text = `Olá! Me chamo ${name}, e gostaria de saber mais sobre você. ${msg}`;
+    const text = `Olá! Me chamo ${name} e gostaria de saber mais sobre você. ${msg}`;
     const encodedText = encodeURIComponent(text);
     const url = `https://wa.me/5581994016336?text=${encodedText}`;
     window.open(url, "_blank");
@@ -116,7 +116,7 @@ function App() {
           <p className="sobre-paragrafo">
             Meu primeiro contato com o desenvolvimento web aconteceu em 2008
             quando fiz um curso de 6 meses em uma escola de informática no tempo
-            em que morava em João Pessoa PB, onde descobri a linguagem de
+            em que morava em João Pessoa - PB, onde descobri a linguagem de
             marcação HTML e de estilo CSS entre outras ferramentas. Naquela
             época com 16 anos mudei de cidade e a vida me levou para outro campo
             profissional. Hoje estou em processo de transição de carreira.
@@ -173,7 +173,7 @@ function App() {
             />
             <div className="caixa-texto-projetos">
               <div className="title-button">
-                <h3 className="info-projetos">Portfólio GitHub</h3>
+                <h3 className="info-projetos">Portfólio GitHub - Desktop</h3>
                 <a
                   className="button-visitar"
                   href="https://github-perfil-sigma.vercel.app"
@@ -207,7 +207,7 @@ function App() {
             />
             <div className="caixa-texto-projetos">
               <div className="title-button">
-                <h3 className="info-projetos">Minhas Tarefas</h3>
+                <h3 className="info-projetos">Minhas Tarefas - Desktop</h3>
                 <a
                   className="button-visitar"
                   href="https://minhas-tarefas-navy.vercel.app/"
