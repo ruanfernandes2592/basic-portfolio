@@ -81,7 +81,6 @@ span {
 .foto-perfil {
   margin-top: 12px;
   width: 320px;
-  height: 325px;
   box-shadow: 0 0 20px rgba(79, 70, 229, 0.3);
   border-radius: 50%;
   border: 4px solid var(--vidro);
@@ -89,7 +88,6 @@ span {
 
   @media (max-width: 450px) {
     width: 280px;
-    height: 285px;
   }
 }
 
@@ -152,6 +150,7 @@ h1 {
 .sobre-paragrafo {
   text-align: left;
   font-size: 1.2rem;
+  text-align: justify;
 
   @media (max-width: 450px) {
     font-size: 1rem;

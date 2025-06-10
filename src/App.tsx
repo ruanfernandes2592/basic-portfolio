@@ -1,6 +1,6 @@
 import "./App.css";
 
-import ruanImg from "./assets/images/ruanFernandes.jpg";
+import ruanImg from "./assets/images/ruanFernandes2.jpg";
 
 import tempFlatsImg from "./assets/images/tempFlatsImg.png";
 import portfGitHubImg from "./assets/images/PortfApiGitHub.png";
