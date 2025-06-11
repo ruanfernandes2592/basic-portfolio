@@ -79,7 +79,7 @@ function App() {
           alt="Foto de Ruan Fernandes"
         />
         <h1>Ruan Fernandes</h1>
-        <p className="cabecalho-sub-titulo">Desenvolvedor Front End</p>
+        <p className="cabecalho-sub-titulo">Desenvolvedor Front-End</p>
         <ul className="redes">
           <li>
             <a
@@ -114,14 +114,17 @@ function App() {
         <h2 className="sobre-titulo">Sobre Mim</h2>
         <div className="sobre-caixa">
           <p className="sobre-paragrafo">
-            Meu primeiro contato com o desenvolvimento web aconteceu em 2008
-            quando fiz um curso de 6 meses em uma escola de informática no tempo
-            em que morava em João Pessoa - PB, onde descobri a linguagem de
-            marcação HTML e de estilo CSS entre outras ferramentas. Naquela
-            época com 16 anos mudei de cidade e a vida me levou para outro campo
-            profissional. Hoje estou em processo de transição de carreira.
-            Cursando Análise e Desenvolvimento de Sistemas busco evoluir a cada
-            dia para me tornar um profissional mais completo.
+            Meu primeiro contato com o desenvolvimento web aconteceu em 2008,
+            durante um curso de informática em João Pessoa – PB. Na época,
+            descobri o HTML, o CSS e outras ferramentas que despertaram meu
+            interesse pela tecnologia. No entanto, aos 16 anos, a vida me levou
+            por outros caminhos profissionais. Hoje, em processo de transição de
+            carreira, retomei esse antigo interesse e estou cursando Análise e
+            Desenvolvimento de Sistemas. Tenho me dedicado diariamente ao
+            aprendizado contínuo, com o objetivo de me tornar um profissional
+            completo e preparado para os desafios do mercado de tecnologia.
+            Estou sempre em busca de novos conhecimentos, experiências e
+            conexões que me ajudem a crescer pessoal e profissionalmente.
           </p>
         </div>
       </section>
