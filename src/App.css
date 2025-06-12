@@ -290,6 +290,7 @@ h1 {
   border: none;
   border-radius: 8px;
   cursor: pointer;
+  font-size: 2rem;
   font-weight: bold;
   width: 100%;
   /*transition: all 0.5 ease;*/
