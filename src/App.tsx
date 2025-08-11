@@ -114,17 +114,12 @@ function App() {
         <h2 className="sobre-titulo">Sobre Mim</h2>
         <div className="sobre-caixa">
           <p className="sobre-paragrafo">
-            Meu primeiro contato com o desenvolvimento web aconteceu em 2008,
-            durante um curso de informática em João Pessoa – PB. Na época,
-            descobri o HTML, o CSS e outras ferramentas que despertaram meu
-            interesse pela tecnologia. No entanto, aos 16 anos, a vida me levou
-            por outros caminhos profissionais. Hoje, em processo de transição de
-            carreira, retomei esse antigo interesse e estou cursando Análise e
-            Desenvolvimento de Sistemas. Tenho me dedicado diariamente ao
-            aprendizado contínuo, com o objetivo de me tornar um profissional
-            completo e preparado para os desafios do mercado de tecnologia.
-            Estou sempre em busca de novos conhecimentos, experiências e
-            conexões que me ajudem a crescer pessoal e profissionalmente.
+            Sou bacharel em Administração com experiência em rotinas
+            administrativas e gestão de processos. Tenho perfil organizado,
+            proativo e voltado para resultados. Atualmente, amplio meus
+            conhecimentos na área de tecnologia com o curso de Análise e
+            Desenvolvimento de Sistemas, agregando uma visão mais analítica e
+            moderna à minha atuação profissional.
           </p>
         </div>
       </section>
