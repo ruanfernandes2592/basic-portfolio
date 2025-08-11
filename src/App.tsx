@@ -5,7 +5,7 @@ import ruanImg from "./assets/images/ruanFernandes2.jpg";
 import tempFlatsImg from "./assets/images/tempFlatsImg.png";
 import portfGitHubImg from "./assets/images/PortfApiGitHub.png";
 import minhasTarefas from "./assets/images/minhasTarefas.png";
-import metaPpImg from "./assets/images/metaPpImg.png";
+import metaPpImg from "./assets/images/metaFarmacy.png";
 import imcImg from "./assets/images/ImcImg.png";
 import twdImg from "./assets/images/twdImg.png";
 
